@@ -5,6 +5,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Frond-End Eğitiminde oluştur
 ## Installation 
 Öncelikle projeyi clonelayın.
 ```
-[](https://github.com/Sercan1616/kodluyoruzilkrepo.git)
+git clone https://github.com/Sercan1616/kodluyoruzilkrepo.git
 ```
 
