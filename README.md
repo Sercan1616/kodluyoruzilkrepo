@@ -1,8 +1,10 @@
 # Kodluyoruz iLK Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Frond-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet REadme dosyası
- biradet de index.html barındırıyor
+ biradet de index.html barındırıyor.
 
-# Başlık
-h1
-## Başlık2 
-h2
+## Installation 
+Öncelikle projeyi clonelayın.
+```
+[](https://github.com/Sercan1616/kodluyoruzilkrepo.git)
+```
+
